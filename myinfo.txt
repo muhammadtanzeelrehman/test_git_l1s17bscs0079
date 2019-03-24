@@ -1,4 +1,7 @@
 Name: Muhammad Tanzeel  
+=======
+Name:  Tanzeel -Ur- Rehman 
+>>>>>>> 92273501228a93e9caa0561cf0530e7b45f136d4
 Email: mianch706@ucp.edu.pk
 Faculty of Information Technology
 UCP
